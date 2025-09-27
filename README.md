@@ -1,6 +1,6 @@
 # 📊 Marketing Analytics Project  
 
-## 🔎 Portfolio Summary  
+## 🔎 Summary  
 This project applies **Marketing Analytics** techniques to optimize customer loyalty, retention, and engagement.  
 Using **RFM segmentation**, **churn prediction**, and **sentiment analysis**, we analyzed customer behavior, identified at-risk users, and designed **data-driven retention campaigns** with measurable ROI.  
 The work follows the **CRISP-DM methodology**, from data collection to deployment, ensuring a structured and business-oriented approach.  
