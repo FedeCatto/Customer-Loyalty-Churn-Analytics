@@ -92,6 +92,3 @@ Data was provided by **Snowit** and included:
 
 ---
 
-## 👥 Authors  
-- **Borserini Riccardo**  
-- **Federico Cesare Cattò**  
